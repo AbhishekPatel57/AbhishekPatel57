@@ -22,7 +22,7 @@ Blame
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=saurabhanilpandey&style=flat-square&color=blue" alt=""/>
+    <img src="https://github.com/AbhishekPatel57" alt=""/>
   </div>
   
   <!-- Greetings -->
