@@ -18,7 +18,7 @@ Blame
     <a href="https://www.linkedin.com/in/abhishek-patel-8a2832277">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/Abhishe02852565?t=NwTqPEEkDHw2dQ0eGxcPoQ&s=09">
+    <a href="https://twitter.com/Abhishe02852565">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <br/>
